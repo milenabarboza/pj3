@@ -1,6 +1,6 @@
 body{
-    background-color: bisque;
-    font-family: bai jamjuree;
+    background: url('../assets/img/abstract-black-green-marble-textured-background.jpg');
+    font-family:" bai jamjuree;"
 }
 #container {
     display:flex ;
